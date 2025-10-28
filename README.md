@@ -1,7 +1,8 @@
 # The code will be available soon
-#  Multi-Scale Semantic Context and Feature Reconstruction for Pavement Crack Segmentation
+#  ADB-Crack: A Transformer-Based Framework with Adaptive Context Fusion and Dynamic Feature Refinement for High-Precision Pavement Concrete Crack Segmentation
 
-Authors: *Yvon Apedo*, *Huanjie Tao*
+
+Authors: *Yvon Apedo*, Huanjie Tao, Chao Xie, Shusen Zhao 
 
 ---
 
