@@ -50,7 +50,7 @@ python test.py
 ---
 ## Baseline Model Implementation
 
-Our code heavily references the code in [CRACKFORMER](https://github.com/LouisNUST/CrackFormer-II).
+Our code references the code in [CRACKFORMER](https://github.com/LouisNUST/CrackFormer-II).
 
 ---
 
